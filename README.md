@@ -1,6 +1,6 @@
 
 # Who Am I?
-Hey there! I'm a computer science student with a passion for cybersecurity. As an avid learner and problem-solver, I'm always looking for ways to improve my skills and knowledge in this field. I am also ICS2 certified in cybersecurity, having earned the prestigious ISC2 certification, which demonstrates my expertise and commitment to the highest standards of cybersecurity practices. My GitHub profile showcases some of my projects and contributions , and I'm always excited to connect with like-minded individuals and collaborate on exciting projects together!
+Hey there! I'm a computer science student with a passion for cybersecurity. As an avid learner and problem-solver, I'm always on the lookout for ways to improve my skills and knowledge in this field. I am also ICS2 certified in cybersecurity, having earned the prestigious ISC2 certification, which demonstrates my expertise and commitment to the highest standards of cybersecurity practices. My GitHub profile showcases some of my projects and contributions , and I'm always excited to connect with like-minded individuals and collaborate on exciting projects together!
 
 
 # 💻 Tech Stack:
