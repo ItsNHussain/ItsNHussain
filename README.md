@@ -1,6 +1,3 @@
-![Banner](https://github.com/0fficialNadeem/0fficialNadeem/assets/55362119/21b6b91f-1e13-4b69-bdcb-40c4b30bca6c)
-
-
 # Howdy!
 I'm a computer science student. As an avid learner and problem-solver, I'm always on the lookout for ways to improve my skills and knowledge in this field. I am also ICS2 certified in cybersecurity, having earned the prestigious ISC2 certification, which demonstrates my expertise and commitment to the highest standards of cybersecurity practices. My GitHub profile showcases some of my projects and contributions , and I'm always excited to connect with like-minded individuals and collaborate on exciting projects together!
 
