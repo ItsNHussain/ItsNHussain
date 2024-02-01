@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack:</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,py,js,php,linux,sklearn,ps,html,css,mysql,git,github,eclipse,bootstrap,bash,regex&perline=8" alt="Technologies and Tools I use" />
