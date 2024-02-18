@@ -1,6 +1,4 @@
 # Howdy!
-![01Techfix-illo-jumbo](https://github.com/0fficialNadeem/0fficialNadeem/assets/55362119/c1b2e37b-44a5-44dd-b7d0-b0d8af052203)
-
 - Computer Science student with an interest Artificial Intellience and Machine Learning. 
 - Looking to contribute to open-source projects and collaborate with other developers.
 - Exploring the world of AI/ML through practical projects. Find my code, learning resources, and insights here.
