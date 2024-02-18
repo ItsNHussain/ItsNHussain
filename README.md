@@ -1,5 +1,7 @@
 # Howdy!
-I'm a computer science student. As an avid learner and problem-solver, I'm always on the lookout for ways to improve my skills and knowledge in this field. I am also ICS2 certified in cybersecurity, having earned the prestigious ISC2 certification, which demonstrates my expertise and commitment to the highest standards of cybersecurity practices. My GitHub profile showcases some of my projects and contributions , and I'm always excited to connect with like-minded individuals and collaborate on exciting projects together!
+- Computer Science student with an interest Artificial Intellience and Machine Learning. 
+- Looking to contribute to open-source projects and collaborate with other developers.
+- Exploring the world of AI/ML through practical projects. Find my code, learning resources, and insights here.
 
 
 
