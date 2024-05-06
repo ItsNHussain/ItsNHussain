@@ -1,11 +1,14 @@
-# Hi, I'm Nadeem! 👋 👨‍💻
-<img src="https://github.com/0fficialNadeem/0fficialNadeem/assets/55362119/c3761310-a427-4c03-9344-32e4278a9450" alt="Nadeem GIF" width="200" height="200">
+<div>
+    <img src="https://github.com/0fficialNadeem/0fficialNadeem/assets/55362119/c3761310-a427-4c03-9344-32e4278a9450" alt="Nadeem GIF" width="200" height="200" align="right">
+    <h1>Hi, I'm Nadeem! 👋 👨‍💻</h1>
+    <p>I'm a final year Computer Science student with a keen interest in Artificial Intelligence and Machine Learning.</p>
+    <p>Contact me at:</p>
+    <ul>
+        <li>Email: DeveloperNadeem.ai@gmail.com</li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/mnadeemhussain/">mnadeemhussain</a></li>
+    </ul>
+</div>
 
-I'm a final year Computer Science student with an interest in Artificial Intelligence and Machine Learning.
-
-Contact me at:
-- Email: DeveloperNadeem.ai@gmail.com
-- LinkedIn: [mnadeemhussain](https://www.linkedin.com/in/mnadeemhussain/)
 
 
 
