@@ -1,6 +1,11 @@
 # Hi, I'm Nadeem! 👋 👨‍💻
-- Computer Science student with an interest Artificial Intellience and Machine Learning. 
+<img src="https://github.com/0fficialNadeem/0fficialNadeem/assets/55362119/c3761310-a427-4c03-9344-32e4278a9450" alt="Nadeem GIF" width="200" height="200">
 
+I'm a final year Computer Science student with an interest in Artificial Intelligence and Machine Learning.
+
+Contact me at:
+- Email: DeveloperNadeem.ai@gmail.com
+- LinkedIn: [mnadeemhussain](https://www.linkedin.com/in/mnadeemhussain/)
 
 
 
