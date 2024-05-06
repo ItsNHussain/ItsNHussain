@@ -1,7 +1,6 @@
 # Hi, I'm Nadeem! 👋 👨‍💻
 - Computer Science student with an interest Artificial Intellience and Machine Learning. 
-- Looking to contribute to open-source projects and collaborate with other developers.
-- Exploring the world of AI/ML through practical projects. Find my code, learning resources, and insights here.
+
 
 
 
