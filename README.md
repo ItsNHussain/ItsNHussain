@@ -1,6 +1,6 @@
 <div>
     <h1>Hi, I'm Nadeem! 👋 👨‍💻</h1>
-    <p>I'm a final year Computer Science student with a keen interest in Artificial Intelligence and Machine Learning.</p>
+    <p>I'm a final year Computer Science student with an interest in Artificial Intelligence and Machine Learning.</p>
     <p>Contact me at:</p>
     <ul>
         <li>Email: <Strong>DeveloperNadeem.ai@gmail.com</Strong></li>
