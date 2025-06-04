@@ -3,7 +3,7 @@
     <p>I'm a final year Computer Science student.</p>
     <p>Contact me at:</p>
     <ul>
-        <li>Email: <Strong>DeveloperNadeem.ai@gmail.com</Strong></li>
+        <li>Email: <Strong>M.Nadeem.Hussain@outlook.com</Strong></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/mnadeemhussain/">Nadeem Hussain</a></li>
     </ul>
 </div>
