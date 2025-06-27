@@ -1,6 +1,5 @@
 <div>
     <h1>Hi, I'm Nadeem! 👋 👨‍💻</h1>
-    <p>I'm a final year Computer Science student.</p>
     <p>Contact me at:</p>
     <ul>
         <li>Email: <Strong>M.Nadeem.Hussain@outlook.com</Strong></li>
